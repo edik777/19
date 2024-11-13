@@ -1,5 +1,5 @@
 # print("Hello World")
-
+#псротое чтение файла
 import json
 
 with open('data.json') as f:
